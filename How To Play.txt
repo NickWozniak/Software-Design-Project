@@ -1,0 +1,6 @@
+Run Blackjack.m
+
+Press h to hit
+Press any other key to hold
+
+Winner is displayed in the command line
