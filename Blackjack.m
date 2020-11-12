@@ -1,4 +1,3 @@
-git tag -a v1.0
 % Initialize scene
 my_scene = simpleGameEngine('retro_cards.png',16,16,8,[0,150,0]);
 
